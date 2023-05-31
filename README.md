@@ -1,1 +1,2 @@
-# IPoDWDM_Bsc_Szakdolgozat
+# IPoDWDM-SzakDoga
+Bsc szakdolgozat repo

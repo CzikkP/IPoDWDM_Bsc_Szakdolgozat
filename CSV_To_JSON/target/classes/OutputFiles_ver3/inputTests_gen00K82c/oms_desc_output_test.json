@@ -1,0 +1,2071 @@
+[ [ {
+  "id" : 0,
+  "name" : "Site 0191-Site 0193 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0191X",
+  "site2_ID" : "S0193X",
+  "hops" : 1,
+  "length" : 8.895,
+  "cost" : 48.895
+}, {
+  "id" : 3,
+  "name" : "Site 0191-Site 0209 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0191X",
+  "site2_ID" : "S0209X",
+  "hops" : 3,
+  "length" : 6.075,
+  "cost" : 46.075
+}, {
+  "id" : 6,
+  "name" : "Site 0183-Site 0191 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0183X",
+  "site2_ID" : "S0191X",
+  "hops" : 5,
+  "length" : 18.794,
+  "cost" : 78.794
+}, {
+  "id" : 10,
+  "name" : "Site 0275-Site 0191 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0275X",
+  "site2_ID" : "S0191X",
+  "hops" : 2,
+  "length" : 23.474,
+  "cost" : 83.474
+}, {
+  "id" : 23,
+  "name" : "Site 0291-Site 0191 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0291X",
+  "site2_ID" : "S0191X",
+  "hops" : 3,
+  "length" : 29.195,
+  "cost" : 89.195
+}, {
+  "id" : 26,
+  "name" : "Site 0258-Site 0143 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0258X",
+  "site2_ID" : "S0143X",
+  "hops" : 3,
+  "length" : 37.927,
+  "cost" : 97.927
+}, {
+  "id" : 28,
+  "name" : "Site 0143-Site 0153 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0143X",
+  "site2_ID" : "S0153X",
+  "hops" : 1,
+  "length" : 43.444,
+  "cost" : 123.444
+}, {
+  "id" : 37,
+  "name" : "Site 0258-Site 0152 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0258X",
+  "site2_ID" : "S0152X",
+  "hops" : 4,
+  "length" : 61.937,
+  "cost" : 121.937
+}, {
+  "id" : 38,
+  "name" : "Site 0258-Site 0303 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0258X",
+  "site2_ID" : "S0303X",
+  "hops" : 1,
+  "length" : 31.249,
+  "cost" : 91.249
+}, {
+  "id" : 42,
+  "name" : "Site 0258-Site 0325 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0258X",
+  "site2_ID" : "S0325X",
+  "hops" : 4,
+  "length" : 34.662,
+  "cost" : 94.662
+}, {
+  "id" : 45,
+  "name" : "Site 0258-Site 0300 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0258X",
+  "site2_ID" : "S0300X",
+  "hops" : 2,
+  "length" : 18.222,
+  "cost" : 78.222
+}, {
+  "id" : 64,
+  "name" : "Site 0193-Site 0239 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0193X",
+  "site2_ID" : "S0239X",
+  "hops" : 1,
+  "length" : 7.907,
+  "cost" : 67.907
+}, {
+  "id" : 75,
+  "name" : "Site 0233-Site 0193 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0233X",
+  "site2_ID" : "S0193X",
+  "hops" : 3,
+  "length" : 13.109,
+  "cost" : 73.109
+}, {
+  "id" : 76,
+  "name" : "Site 0193-Site 0198 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0193X",
+  "site2_ID" : "S0198X",
+  "hops" : 1,
+  "length" : 6.057,
+  "cost" : 66.057
+}, {
+  "id" : 101,
+  "name" : "Site 0257-Site 0125 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0257X",
+  "site2_ID" : "S0125X",
+  "hops" : 1,
+  "length" : 53.39,
+  "cost" : 133.39
+}, {
+  "id" : 102,
+  "name" : "Site 0257-Site 0124 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0257X",
+  "site2_ID" : "S0124X",
+  "hops" : 1,
+  "length" : 45.516,
+  "cost" : 125.516
+}, {
+  "id" : 103,
+  "name" : "Site 0257-Site 0318 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0257X",
+  "site2_ID" : "S0318X",
+  "hops" : 1,
+  "length" : 54.994,
+  "cost" : 134.994
+}, {
+  "id" : 105,
+  "name" : "Site 0174-Site 0257 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0174X",
+  "site2_ID" : "S0257X",
+  "hops" : 2,
+  "length" : 17.808,
+  "cost" : 102.574
+}, {
+  "id" : 115,
+  "name" : "Site 0082-Site 0105 OMS2",
+  "layer" : "UL",
+  "site1_ID" : "S0082X",
+  "site2_ID" : "S0105X",
+  "hops" : 2,
+  "length" : 19.218,
+  "cost" : 99.218
+}, {
+  "id" : 120,
+  "name" : "Site 0349-Site 0361 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0349X",
+  "site2_ID" : "S0361X",
+  "hops" : 1,
+  "length" : 23.805,
+  "cost" : 83.805
+}, {
+  "id" : 125,
+  "name" : "Site 0349-Site 0350 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0349X",
+  "site2_ID" : "S0350X",
+  "hops" : 2,
+  "length" : 15.521,
+  "cost" : 75.521
+}, {
+  "id" : 126,
+  "name" : "Site 0050-Site 0122 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0050X",
+  "site2_ID" : "S0122X",
+  "hops" : 3,
+  "length" : 80.228,
+  "cost" : 140.228
+}, {
+  "id" : 137,
+  "name" : "Site 0050-Site 0028 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0050X",
+  "site2_ID" : "S0028X",
+  "hops" : 1,
+  "length" : 35.692,
+  "cost" : 115.692
+}, {
+  "id" : 148,
+  "name" : "Site 0006-Site 0003 OMS2",
+  "layer" : "UL",
+  "site1_ID" : "S0006X",
+  "site2_ID" : "S0003X",
+  "hops" : 3,
+  "length" : 27.013,
+  "cost" : 107.013
+}, {
+  "id" : 150,
+  "name" : "Site 0006-Site 0012 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0006X",
+  "site2_ID" : "S0012X",
+  "hops" : 1,
+  "length" : 33.085,
+  "cost" : 113.085
+}, {
+  "id" : 152,
+  "name" : "Site 0022-Site 0034 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0022X",
+  "site2_ID" : "S0034X",
+  "hops" : 1,
+  "length" : 25.173,
+  "cost" : 85.173
+}, {
+  "id" : 153,
+  "name" : "Site 0022-Site 0064 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0022X",
+  "site2_ID" : "S0064X",
+  "hops" : 1,
+  "length" : 59.541,
+  "cost" : 119.541
+}, {
+  "id" : 155,
+  "name" : "Site 0022-Site 0020 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0022X",
+  "site2_ID" : "S0020X",
+  "hops" : 1,
+  "length" : 35.129,
+  "cost" : 95.129
+}, {
+  "id" : 156,
+  "name" : "Site 0022-Site 0043 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0022X",
+  "site2_ID" : "S0043X",
+  "hops" : 2,
+  "length" : 56.59,
+  "cost" : 116.59
+}, {
+  "id" : 171,
+  "name" : "Site 0135-Site 0122 OMS2",
+  "layer" : "UL",
+  "site1_ID" : "S0135X",
+  "site2_ID" : "S0122X",
+  "hops" : 2,
+  "length" : 27.141,
+  "cost" : 87.141
+}, {
+  "id" : 182,
+  "name" : "Site 0232-Site 0122 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0232X",
+  "site2_ID" : "S0122X",
+  "hops" : 4,
+  "length" : 64.346,
+  "cost" : 124.346
+}, {
+  "id" : 186,
+  "name" : "Site 0122-Site 0120 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0122X",
+  "site2_ID" : "S0120X",
+  "hops" : 2,
+  "length" : 22.597,
+  "cost" : 82.597
+}, {
+  "id" : 187,
+  "name" : "Site 0209-Site 0123 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0209X",
+  "site2_ID" : "S0123X",
+  "hops" : 2,
+  "length" : 49.343,
+  "cost" : 109.343
+}, {
+  "id" : 188,
+  "name" : "Site 0209-Site 0240 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0209X",
+  "site2_ID" : "S0240X",
+  "hops" : 1,
+  "length" : 7.194,
+  "cost" : 67.194
+}, {
+  "id" : 190,
+  "name" : "Site 0209-Site 0204 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0209X",
+  "site2_ID" : "S0204X",
+  "hops" : 1,
+  "length" : 6.314,
+  "cost" : 66.314
+}, {
+  "id" : 195,
+  "name" : "Site 0209-Site 0190 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0209X",
+  "site2_ID" : "S0190X",
+  "hops" : 1,
+  "length" : 5.388,
+  "cost" : 65.388
+}, {
+  "id" : 197,
+  "name" : "Site 0209-Site 0200 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0209X",
+  "site2_ID" : "S0200X",
+  "hops" : 1,
+  "length" : 2.464,
+  "cost" : 62.464
+}, {
+  "id" : 198,
+  "name" : "Site 0066-Site 0068 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0066X",
+  "site2_ID" : "S0068X",
+  "hops" : 2,
+  "length" : 35.781,
+  "cost" : 95.781
+}, {
+  "id" : 201,
+  "name" : "Site 0096-Site 0066 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0096X",
+  "site2_ID" : "S0066X",
+  "hops" : 2,
+  "length" : 32.474,
+  "cost" : 92.474
+}, {
+  "id" : 202,
+  "name" : "Site 0066-Site 0046 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0066X",
+  "site2_ID" : "S0046X",
+  "hops" : 3,
+  "length" : 45.087,
+  "cost" : 105.087
+}, {
+  "id" : 208,
+  "name" : "Site 0092-Site 0112 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0092X",
+  "site2_ID" : "S0112X",
+  "hops" : 3,
+  "length" : 18.645,
+  "cost" : 98.645
+}, {
+  "id" : 215,
+  "name" : "Site 0112-Site 0162 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0112X",
+  "site2_ID" : "S0162X",
+  "hops" : 3,
+  "length" : 34.129,
+  "cost" : 114.129
+}, {
+  "id" : 218,
+  "name" : "Site 0108-Site 0131 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0108X",
+  "site2_ID" : "S0131X",
+  "hops" : 3,
+  "length" : 120.538,
+  "cost" : 455.632
+}, {
+  "id" : 221,
+  "name" : "Site 0109-Site 0108 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0109X",
+  "site2_ID" : "S0108X",
+  "hops" : 2,
+  "length" : 64.757,
+  "cost" : 232.103
+}, {
+  "id" : 222,
+  "name" : "Site 0139-Site 0124 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0139X",
+  "site2_ID" : "S0124X",
+  "hops" : 1,
+  "length" : 19.167,
+  "cost" : 99.167
+}, {
+  "id" : 232,
+  "name" : "Site 0236-Site 0237 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0236X",
+  "site2_ID" : "S0237X",
+  "hops" : 1,
+  "length" : 4.089,
+  "cost" : 84.089
+}, {
+  "id" : 233,
+  "name" : "Site 0236-Site 0237 OMS2",
+  "layer" : "UL",
+  "site1_ID" : "S0236X",
+  "site2_ID" : "S0237X",
+  "hops" : 1,
+  "length" : 5.124,
+  "cost" : 85.124
+}, {
+  "id" : 234,
+  "name" : "Site 0236-Site 0245 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0236X",
+  "site2_ID" : "S0245X",
+  "hops" : 1,
+  "length" : 4.428,
+  "cost" : 84.428
+}, {
+  "id" : 235,
+  "name" : "Site 0297-Site 0295 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0297X",
+  "site2_ID" : "S0295X",
+  "hops" : 2,
+  "length" : 22.105,
+  "cost" : 142.483
+}, {
+  "id" : 236,
+  "name" : "Site 0295-Site 0311 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0295X",
+  "site2_ID" : "S0311X",
+  "hops" : 2,
+  "length" : 32.765,
+  "cost" : 153.143
+}, {
+  "id" : 237,
+  "name" : "Site 0295-Site 0279 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0295X",
+  "site2_ID" : "S0279X",
+  "hops" : 1,
+  "length" : 36.547,
+  "cost" : 189.641
+}, {
+  "id" : 238,
+  "name" : "Site 0016-Site 0039 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0016X",
+  "site2_ID" : "S0039X",
+  "hops" : 1,
+  "length" : 43.341,
+  "cost" : 123.341
+}, {
+  "id" : 240,
+  "name" : "Site 0016-Site 0010 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0016X",
+  "site2_ID" : "S0010X",
+  "hops" : 1,
+  "length" : 45.466,
+  "cost" : 125.466
+}, {
+  "id" : 241,
+  "name" : "Site 0016-Site 0017 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0016X",
+  "site2_ID" : "S0017X",
+  "hops" : 1,
+  "length" : 39.483,
+  "cost" : 119.483
+}, {
+  "id" : 243,
+  "name" : "Site 0363-Site 0338 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0363X",
+  "site2_ID" : "S0338X",
+  "hops" : 2,
+  "length" : 39.362,
+  "cost" : 119.362
+}, {
+  "id" : 244,
+  "name" : "Site 0338-Site 0337 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0338X",
+  "site2_ID" : "S0337X",
+  "hops" : 1,
+  "length" : 33.622,
+  "cost" : 113.622
+}, {
+  "id" : 245,
+  "name" : "Site 0330-Site 0347 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0330X",
+  "site2_ID" : "S0347X",
+  "hops" : 2,
+  "length" : 26.731,
+  "cost" : 106.731
+}, {
+  "id" : 246,
+  "name" : "Site 0347-Site 0348 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0347X",
+  "site2_ID" : "S0348X",
+  "hops" : 1,
+  "length" : 48.979,
+  "cost" : 128.979
+}, {
+  "id" : 248,
+  "name" : "Site 0076-Site 0062 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0076X",
+  "site2_ID" : "S0062X",
+  "hops" : 1,
+  "length" : 30.462,
+  "cost" : 110.462
+}, {
+  "id" : 249,
+  "name" : "Site 0076-Site 0077 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0076X",
+  "site2_ID" : "S0077X",
+  "hops" : 1,
+  "length" : 16.921,
+  "cost" : 96.921
+}, {
+  "id" : 251,
+  "name" : "Site 0088-Site 0075 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0088X",
+  "site2_ID" : "S0075X",
+  "hops" : 1,
+  "length" : 55.488,
+  "cost" : 135.488
+}, {
+  "id" : 253,
+  "name" : "Site 0090-Site 0088 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0090X",
+  "site2_ID" : "S0088X",
+  "hops" : 4,
+  "length" : 52.933,
+  "cost" : 205.857
+}, {
+  "id" : 255,
+  "name" : "Site 0299-Site 0280 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0299X",
+  "site2_ID" : "S0280X",
+  "hops" : 2,
+  "length" : 15.839,
+  "cost" : 95.839
+}, {
+  "id" : 257,
+  "name" : "Site 0280-Site 0230 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0280X",
+  "site2_ID" : "S0230X",
+  "hops" : 1,
+  "length" : 22.549,
+  "cost" : 102.549
+}, {
+  "id" : 261,
+  "name" : "Site 0234-Site 0182 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0234X",
+  "site2_ID" : "S0182X",
+  "hops" : 2,
+  "length" : 31.038,
+  "cost" : 111.038
+}, {
+  "id" : 262,
+  "name" : "Site 0267-Site 0182 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0267X",
+  "site2_ID" : "S0182X",
+  "hops" : 3,
+  "length" : 37.593,
+  "cost" : 117.593
+}, {
+  "id" : 266,
+  "name" : "Site 0183-Site 0180 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0183X",
+  "site2_ID" : "S0180X",
+  "hops" : 2,
+  "length" : 28.403,
+  "cost" : 108.403
+}, {
+  "id" : 267,
+  "name" : "Site 0264-Site 0180 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0264X",
+  "site2_ID" : "S0180X",
+  "hops" : 2,
+  "length" : 25.201,
+  "cost" : 105.201
+}, {
+  "id" : 268,
+  "name" : "Site 0183-Site 0135 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0183X",
+  "site2_ID" : "S0135X",
+  "hops" : 5,
+  "length" : 41.187,
+  "cost" : 121.187
+}, {
+  "id" : 271,
+  "name" : "Site 0013-Site 0000 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0013X",
+  "site2_ID" : "S0000X",
+  "hops" : 4,
+  "length" : 76.61,
+  "cost" : 251.908
+}, {
+  "id" : 274,
+  "name" : "Site 0028-Site 0013 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0028X",
+  "site2_ID" : "S0013X",
+  "hops" : 2,
+  "length" : 19.741,
+  "cost" : 99.741
+}, {
+  "id" : 276,
+  "name" : "Site 0268-Site 0243 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0268X",
+  "site2_ID" : "S0243X",
+  "hops" : 1,
+  "length" : 8.036,
+  "cost" : 88.036
+}, {
+  "id" : 279,
+  "name" : "Site 0289-Site 0268 OMS2",
+  "layer" : "UL",
+  "site1_ID" : "S0289X",
+  "site2_ID" : "S0268X",
+  "hops" : 2,
+  "length" : 10.137,
+  "cost" : 90.137
+}, {
+  "id" : 280,
+  "name" : "Site 0057-Site 0059 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0057X",
+  "site2_ID" : "S0059X",
+  "hops" : 1,
+  "length" : 22.507,
+  "cost" : 147.521
+}, {
+  "id" : 284,
+  "name" : "Site 0044-Site 0057 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0044X",
+  "site2_ID" : "S0057X",
+  "hops" : 2,
+  "length" : 40.124,
+  "cost" : 120.124
+}, {
+  "id" : 286,
+  "name" : "Site 0105-Site 0124 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0105X",
+  "site2_ID" : "S0124X",
+  "hops" : 3,
+  "length" : 16.108,
+  "cost" : 96.108
+}, {
+  "id" : 287,
+  "name" : "Site 0163-Site 0150 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0163X",
+  "site2_ID" : "S0150X",
+  "hops" : 2,
+  "length" : 21.706,
+  "cost" : 123.824
+}, {
+  "id" : 289,
+  "name" : "Site 0163-Site 0190 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0163X",
+  "site2_ID" : "S0190X",
+  "hops" : 1,
+  "length" : 4.789,
+  "cost" : 84.789
+}, {
+  "id" : 290,
+  "name" : "Site 0163-Site 0148 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0163X",
+  "site2_ID" : "S0148X",
+  "hops" : 2,
+  "length" : 20.677,
+  "cost" : 120.737
+}, {
+  "id" : 292,
+  "name" : "Site 0240-Site 0239 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0240X",
+  "site2_ID" : "S0239X",
+  "hops" : 1,
+  "length" : 3.137,
+  "cost" : 83.137
+}, {
+  "id" : 294,
+  "name" : "Site 0240-Site 0195 OMS2",
+  "layer" : "UL",
+  "site1_ID" : "S0240X",
+  "site2_ID" : "S0195X",
+  "hops" : 1,
+  "length" : 2.564,
+  "cost" : 82.564
+}, {
+  "id" : 301,
+  "name" : "Site 0027-Site 0055 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0027X",
+  "site2_ID" : "S0055X",
+  "hops" : 2,
+  "length" : 74.032,
+  "cost" : 235.028
+}, {
+  "id" : 302,
+  "name" : "Site 0012-Site 0027 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0012X",
+  "site2_ID" : "S0027X",
+  "hops" : 2,
+  "length" : 35.473,
+  "cost" : 115.473
+}, {
+  "id" : 303,
+  "name" : "Site 0320-Site 0321 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0320X",
+  "site2_ID" : "S0321X",
+  "hops" : 2,
+  "length" : 30.611,
+  "cost" : 110.611
+}, {
+  "id" : 305,
+  "name" : "Site 0308-Site 0321 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0308X",
+  "site2_ID" : "S0321X",
+  "hops" : 3,
+  "length" : 13.396,
+  "cost" : 93.396
+}, {
+  "id" : 306,
+  "name" : "Site 0150-Site 0138 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0150X",
+  "site2_ID" : "S0138X",
+  "hops" : 1,
+  "length" : 21.142,
+  "cost" : 143.426
+}, {
+  "id" : 310,
+  "name" : "Site 0275-Site 0293 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0275X",
+  "site2_ID" : "S0293X",
+  "hops" : 3,
+  "length" : 19.805,
+  "cost" : 99.805
+}, {
+  "id" : 311,
+  "name" : "Site 0275-Site 0308 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0275X",
+  "site2_ID" : "S0308X",
+  "hops" : 5,
+  "length" : 20.236,
+  "cost" : 100.236
+}, {
+  "id" : 315,
+  "name" : "Site 0138-Site 0147 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0138X",
+  "site2_ID" : "S0147X",
+  "hops" : 1,
+  "length" : 14.636,
+  "cost" : 123.908
+}, {
+  "id" : 317,
+  "name" : "Site 0092-Site 0051 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0092X",
+  "site2_ID" : "S0051X",
+  "hops" : 4,
+  "length" : 77.386,
+  "cost" : 157.386
+}, {
+  "id" : 324,
+  "name" : "Site 0092-Site 0102 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0092X",
+  "site2_ID" : "S0102X",
+  "hops" : 3,
+  "length" : 37.281,
+  "cost" : 117.281
+}, {
+  "id" : 326,
+  "name" : "Site 0312-Site 0332 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0312X",
+  "site2_ID" : "S0332X",
+  "hops" : 3,
+  "length" : 60.306,
+  "cost" : 140.306
+}, {
+  "id" : 328,
+  "name" : "Site 0332-Site 0360 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0332X",
+  "site2_ID" : "S0360X",
+  "hops" : 1,
+  "length" : 52.648,
+  "cost" : 132.648
+}, {
+  "id" : 331,
+  "name" : "Site 0364-Site 0368 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0364X",
+  "site2_ID" : "S0368X",
+  "hops" : 2,
+  "length" : 97.046,
+  "cost" : 192.046
+}, {
+  "id" : 332,
+  "name" : "Site 0364-Site 0365 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0364X",
+  "site2_ID" : "S0365X",
+  "hops" : 3,
+  "length" : 64.636,
+  "cost" : 144.636
+}, {
+  "id" : 334,
+  "name" : "Site 0304-Site 0320 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0304X",
+  "site2_ID" : "S0320X",
+  "hops" : 2,
+  "length" : 65.246,
+  "cost" : 248.574
+}, {
+  "id" : 336,
+  "name" : "Site 0289-Site 0320 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0289X",
+  "site2_ID" : "S0320X",
+  "hops" : 3,
+  "length" : 47.679,
+  "cost" : 127.679
+}, {
+  "id" : 341,
+  "name" : "Site 0152-Site 0140 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0152X",
+  "site2_ID" : "S0140X",
+  "hops" : 2,
+  "length" : 43.419,
+  "cost" : 123.419
+}, {
+  "id" : 342,
+  "name" : "Site 0126-Site 0140 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0126X",
+  "site2_ID" : "S0140X",
+  "hops" : 2,
+  "length" : 15.316,
+  "cost" : 95.316
+}, {
+  "id" : 344,
+  "name" : "Site 0062-Site 0048 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0062X",
+  "site2_ID" : "S0048X",
+  "hops" : 1,
+  "length" : 31.233,
+  "cost" : 111.233
+}, {
+  "id" : 346,
+  "name" : "Site 0318-Site 0315 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0318X",
+  "site2_ID" : "S0315X",
+  "hops" : 3,
+  "length" : 45.469,
+  "cost" : 125.469
+}, {
+  "id" : 347,
+  "name" : "Site 0318-Site 0323 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0318X",
+  "site2_ID" : "S0323X",
+  "hops" : 1,
+  "length" : 14.591,
+  "cost" : 94.591
+}, {
+  "id" : 348,
+  "name" : "Site 0118-Site 0074 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0118X",
+  "site2_ID" : "S0074X",
+  "hops" : 1,
+  "length" : 57.052,
+  "cost" : 251.156
+}, {
+  "id" : 349,
+  "name" : "Site 0118-Site 0107 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0118X",
+  "site2_ID" : "S0107X",
+  "hops" : 1,
+  "length" : 9.401,
+  "cost" : 108.203
+}, {
+  "id" : 350,
+  "name" : "Site 0059-Site 0074 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0059X",
+  "site2_ID" : "S0074X",
+  "hops" : 3,
+  "length" : 50.778,
+  "cost" : 172.188
+}, {
+  "id" : 352,
+  "name" : "Site 0226-Site 0278 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0226X",
+  "site2_ID" : "S0278X",
+  "hops" : 2,
+  "length" : 26.783,
+  "cost" : 106.783
+}, {
+  "id" : 353,
+  "name" : "Site 0151-Site 0226 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0151X",
+  "site2_ID" : "S0226X",
+  "hops" : 2,
+  "length" : 15.933,
+  "cost" : 95.933
+}, {
+  "id" : 354,
+  "name" : "Site 0229-Site 0226 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0229X",
+  "site2_ID" : "S0226X",
+  "hops" : 2,
+  "length" : 35.987,
+  "cost" : 183.427
+}, {
+  "id" : 359,
+  "name" : "Site 0312-Site 0348 OMS2",
+  "layer" : "UL",
+  "site1_ID" : "S0312X",
+  "site2_ID" : "S0348X",
+  "hops" : 2,
+  "length" : 58.795,
+  "cost" : 138.795
+}, {
+  "id" : 362,
+  "name" : "Site 0293-Site 0278 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0293X",
+  "site2_ID" : "S0278X",
+  "hops" : 2,
+  "length" : 10.657,
+  "cost" : 90.657
+}, {
+  "id" : 365,
+  "name" : "Site 0299-Site 0324 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0299X",
+  "site2_ID" : "S0324X",
+  "hops" : 2,
+  "length" : 23.175,
+  "cost" : 103.175
+}, {
+  "id" : 368,
+  "name" : "Site 0336-Site 0324 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0336X",
+  "site2_ID" : "S0324X",
+  "hops" : 3,
+  "length" : 43.511,
+  "cost" : 123.511
+}, {
+  "id" : 373,
+  "name" : "Site 0204-Site 0225 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0204X",
+  "site2_ID" : "S0225X",
+  "hops" : 1,
+  "length" : 9.419,
+  "cost" : 89.419
+}, {
+  "id" : 374,
+  "name" : "Site 0172-Site 0204 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0172X",
+  "site2_ID" : "S0204X",
+  "hops" : 4,
+  "length" : 9.638,
+  "cost" : 89.638
+}, {
+  "id" : 382,
+  "name" : "Site 0001-Site 0000 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0001X",
+  "site2_ID" : "S0000X",
+  "hops" : 4,
+  "length" : 59.907,
+  "cost" : 139.907
+}, {
+  "id" : 384,
+  "name" : "Site 0315-Site 0297 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0315X",
+  "site2_ID" : "S0297X",
+  "hops" : 2,
+  "length" : 35.932,
+  "cost" : 115.932
+}, {
+  "id" : 386,
+  "name" : "Site 0311-Site 0297 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0311X",
+  "site2_ID" : "S0297X",
+  "hops" : 3,
+  "length" : 69.931,
+  "cost" : 149.931
+}, {
+  "id" : 387,
+  "name" : "Site 0068-Site 0061 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0068X",
+  "site2_ID" : "S0061X",
+  "hops" : 2,
+  "length" : 8.078,
+  "cost" : 88.078
+}, {
+  "id" : 390,
+  "name" : "Site 0034-Site 0056 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0034X",
+  "site2_ID" : "S0056X",
+  "hops" : 1,
+  "length" : 36.768,
+  "cost" : 116.768
+}, {
+  "id" : 391,
+  "name" : "Site 0363-Site 0352 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0363X",
+  "site2_ID" : "S0352X",
+  "hops" : 3,
+  "length" : 51.753,
+  "cost" : 131.753
+}, {
+  "id" : 392,
+  "name" : "Site 0352-Site 0337 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0352X",
+  "site2_ID" : "S0337X",
+  "hops" : 1,
+  "length" : 35.833,
+  "cost" : 187.499
+}, {
+  "id" : 400,
+  "name" : "Site 0192-Site 0195 OMS3",
+  "layer" : "UL",
+  "site1_ID" : "S0192X",
+  "site2_ID" : "S0195X",
+  "hops" : 1,
+  "length" : 2.714,
+  "cost" : 82.714
+}, {
+  "id" : 403,
+  "name" : "Site 0192-Site 0200 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0192X",
+  "site2_ID" : "S0200X",
+  "hops" : 1,
+  "length" : 2.9,
+  "cost" : 82.9
+}, {
+  "id" : 406,
+  "name" : "Site 0051-Site 0039 OMS2",
+  "layer" : "UL",
+  "site1_ID" : "S0051X",
+  "site2_ID" : "S0039X",
+  "hops" : 2,
+  "length" : 33.733,
+  "cost" : 113.733
+}, {
+  "id" : 409,
+  "name" : "Site 0026-Site 0048 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0026X",
+  "site2_ID" : "S0048X",
+  "hops" : 1,
+  "length" : 46.36,
+  "cost" : 126.36
+}, {
+  "id" : 411,
+  "name" : "Site 0026-Site 0001 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0026X",
+  "site2_ID" : "S0001X",
+  "hops" : 1,
+  "length" : 40.01,
+  "cost" : 120.01
+}, {
+  "id" : 413,
+  "name" : "Site 0260-Site 0157 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0260X",
+  "site2_ID" : "S0157X",
+  "hops" : 2,
+  "length" : 79.51,
+  "cost" : 254.72
+}, {
+  "id" : 417,
+  "name" : "Site 0260-Site 0145 OMS3",
+  "layer" : "UL",
+  "site1_ID" : "S0260X",
+  "site2_ID" : "S0145X",
+  "hops" : 4,
+  "length" : 113.437,
+  "cost" : 331.441
+}, {
+  "id" : 418,
+  "name" : "Site 0260-Site 0281 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0260X",
+  "site2_ID" : "S0281X",
+  "hops" : 2,
+  "length" : 44.718,
+  "cost" : 124.718
+}, {
+  "id" : 428,
+  "name" : "Site 0361-Site 0368 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0361X",
+  "site2_ID" : "S0368X",
+  "hops" : 1,
+  "length" : 50.81,
+  "cost" : 130.81
+}, {
+  "id" : 429,
+  "name" : "Site 0361-Site 0360 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0361X",
+  "site2_ID" : "S0360X",
+  "hops" : 1,
+  "length" : 37.022,
+  "cost" : 117.022
+}, {
+  "id" : 432,
+  "name" : "Site 0061-Site 0075 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0061X",
+  "site2_ID" : "S0075X",
+  "hops" : 1,
+  "length" : 29.982,
+  "cost" : 109.982
+}, {
+  "id" : 433,
+  "name" : "Site 0061-Site 0035 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0061X",
+  "site2_ID" : "S0035X",
+  "hops" : 2,
+  "length" : 32.267,
+  "cost" : 112.267
+}, {
+  "id" : 434,
+  "name" : "Site 0243-Site 0241 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0243X",
+  "site2_ID" : "S0241X",
+  "hops" : 1,
+  "length" : 6.619,
+  "cost" : 86.619
+}, {
+  "id" : 436,
+  "name" : "Site 0243-Site 0238 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0243X",
+  "site2_ID" : "S0238X",
+  "hops" : 1,
+  "length" : 7.181,
+  "cost" : 87.181
+}, {
+  "id" : 438,
+  "name" : "Site 0033-Site 0081 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0033X",
+  "site2_ID" : "S0081X",
+  "hops" : 4,
+  "length" : 67.733,
+  "cost" : 147.733
+}, {
+  "id" : 439,
+  "name" : "Site 0033-Site 0017 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0033X",
+  "site2_ID" : "S0017X",
+  "hops" : 1,
+  "length" : 50.301,
+  "cost" : 130.301
+}, {
+  "id" : 440,
+  "name" : "Site 0033-Site 0043 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0033X",
+  "site2_ID" : "S0043X",
+  "hops" : 1,
+  "length" : 23.134,
+  "cost" : 103.134
+}, {
+  "id" : 446,
+  "name" : "Site 0363-Site 0358 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0363X",
+  "site2_ID" : "S0358X",
+  "hops" : 2,
+  "length" : 21.228,
+  "cost" : 101.228
+}, {
+  "id" : 447,
+  "name" : "Site 0363-Site 0367 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0363X",
+  "site2_ID" : "S0367X",
+  "hops" : 3,
+  "length" : 62.431,
+  "cost" : 142.431
+}, {
+  "id" : 453,
+  "name" : "Site 0232-Site 0304 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0232X",
+  "site2_ID" : "S0304X",
+  "hops" : 3,
+  "length" : 50.781,
+  "cost" : 130.781
+}, {
+  "id" : 456,
+  "name" : "Site 0096-Site 0130 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0096X",
+  "site2_ID" : "S0130X",
+  "hops" : 1,
+  "length" : 27.303,
+  "cost" : 107.303
+}, {
+  "id" : 458,
+  "name" : "Site 0203-Site 0238 OMS2",
+  "layer" : "UL",
+  "site1_ID" : "S0203X",
+  "site2_ID" : "S0238X",
+  "hops" : 1,
+  "length" : 6.571,
+  "cost" : 86.571
+}, {
+  "id" : 459,
+  "name" : "Site 0203-Site 0225 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0203X",
+  "site2_ID" : "S0225X",
+  "hops" : 1,
+  "length" : 12.086,
+  "cost" : 92.086
+}, {
+  "id" : 460,
+  "name" : "Site 0203-Site 0250 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0203X",
+  "site2_ID" : "S0250X",
+  "hops" : 2,
+  "length" : 10.395,
+  "cost" : 90.395
+}, {
+  "id" : 462,
+  "name" : "Site 0157-Site 0130 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0157X",
+  "site2_ID" : "S0130X",
+  "hops" : 1,
+  "length" : 19.349,
+  "cost" : 99.349
+}, {
+  "id" : 463,
+  "name" : "Site 0046-Site 0030 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0046X",
+  "site2_ID" : "S0030X",
+  "hops" : 1,
+  "length" : 42.133,
+  "cost" : 206.399
+}, {
+  "id" : 466,
+  "name" : "Site 0018-Site 0030 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0018X",
+  "site2_ID" : "S0030X",
+  "hops" : 2,
+  "length" : 79.501,
+  "cost" : 159.501
+}, {
+  "id" : 468,
+  "name" : "Site 0032-Site 0030 OMS2",
+  "layer" : "UL",
+  "site1_ID" : "S0032X",
+  "site2_ID" : "S0030X",
+  "hops" : 2,
+  "length" : 46.583,
+  "cost" : 126.583
+}, {
+  "id" : 470,
+  "name" : "Site 0020-Site 0044 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0020X",
+  "site2_ID" : "S0044X",
+  "hops" : 2,
+  "length" : 74.034,
+  "cost" : 238.848
+}, {
+  "id" : 472,
+  "name" : "Site 0323-Site 0336 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0323X",
+  "site2_ID" : "S0336X",
+  "hops" : 2,
+  "length" : 54.91,
+  "cost" : 134.91
+}, {
+  "id" : 474,
+  "name" : "Site 0028-Site 0010 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0028X",
+  "site2_ID" : "S0010X",
+  "hops" : 5,
+  "length" : 50.441,
+  "cost" : 130.441
+}, {
+  "id" : 476,
+  "name" : "Site 0174-Site 0151 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0174X",
+  "site2_ID" : "S0151X",
+  "hops" : 2,
+  "length" : 31.232,
+  "cost" : 111.232
+}, {
+  "id" : 478,
+  "name" : "Site 0151-Site 0172 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0151X",
+  "site2_ID" : "S0172X",
+  "hops" : 2,
+  "length" : 20.511,
+  "cost" : 100.511
+}, {
+  "id" : 479,
+  "name" : "Site 0329-Site 0145 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0329X",
+  "site2_ID" : "S0145X",
+  "hops" : 4,
+  "length" : 116.161,
+  "cost" : 211.161
+}, {
+  "id" : 481,
+  "name" : "Site 0329-Site 0264 OMS2",
+  "layer" : "UL",
+  "site1_ID" : "S0329X",
+  "site2_ID" : "S0264X",
+  "hops" : 5,
+  "length" : 112.517,
+  "cost" : 207.517
+}, {
+  "id" : 492,
+  "name" : "Site 0241-Site 0233 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0241X",
+  "site2_ID" : "S0233X",
+  "hops" : 1,
+  "length" : 3.415,
+  "cost" : 83.415
+}, {
+  "id" : 496,
+  "name" : "Site 0241-Site 0245 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0241X",
+  "site2_ID" : "S0245X",
+  "hops" : 1,
+  "length" : 4.895,
+  "cost" : 84.895
+}, {
+  "id" : 498,
+  "name" : "Site 0234-Site 0233 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0234X",
+  "site2_ID" : "S0233X",
+  "hops" : 1,
+  "length" : 4.972,
+  "cost" : 84.972
+}, {
+  "id" : 500,
+  "name" : "Site 0328-Site 0339 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0328X",
+  "site2_ID" : "S0339X",
+  "hops" : 2,
+  "length" : 27.29,
+  "cost" : 107.29
+}, {
+  "id" : 503,
+  "name" : "Site 0339-Site 0340 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0339X",
+  "site2_ID" : "S0340X",
+  "hops" : 1,
+  "length" : 19.824,
+  "cost" : 99.824
+}, {
+  "id" : 505,
+  "name" : "Site 0001-Site 0018 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0001X",
+  "site2_ID" : "S0018X",
+  "hops" : 2,
+  "length" : 77.573,
+  "cost" : 157.573
+}, {
+  "id" : 506,
+  "name" : "Site 0035-Site 0032 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0035X",
+  "site2_ID" : "S0032X",
+  "hops" : 2,
+  "length" : 23.418,
+  "cost" : 103.418
+}, {
+  "id" : 508,
+  "name" : "Site 0303-Site 0328 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0303X",
+  "site2_ID" : "S0328X",
+  "hops" : 1,
+  "length" : 43.52,
+  "cost" : 123.52
+}, {
+  "id" : 509,
+  "name" : "Site 0177-Site 0303 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0177X",
+  "site2_ID" : "S0303X",
+  "hops" : 3,
+  "length" : 83.033,
+  "cost" : 178.033
+}, {
+  "id" : 514,
+  "name" : "Site 0337-Site 0342 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0337X",
+  "site2_ID" : "S0342X",
+  "hops" : 2,
+  "length" : 31.001,
+  "cost" : 111.001
+}, {
+  "id" : 516,
+  "name" : "Site 0337-Site 0325 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0337X",
+  "site2_ID" : "S0325X",
+  "hops" : 2,
+  "length" : 22.124,
+  "cost" : 102.124
+}, {
+  "id" : 519,
+  "name" : "Site 0238-Site 0195 OMS2",
+  "layer" : "UL",
+  "site1_ID" : "S0238X",
+  "site2_ID" : "S0195X",
+  "hops" : 1,
+  "length" : 9.161,
+  "cost" : 89.161
+}, {
+  "id" : 520,
+  "name" : "Site 0238-Site 0250 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0238X",
+  "site2_ID" : "S0250X",
+  "hops" : 1,
+  "length" : 7.501,
+  "cost" : 87.501
+}, {
+  "id" : 527,
+  "name" : "Site 0267-Site 0290 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0267X",
+  "site2_ID" : "S0290X",
+  "hops" : 1,
+  "length" : 13.446,
+  "cost" : 93.446
+}, {
+  "id" : 530,
+  "name" : "Site 0290-Site 0289 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0290X",
+  "site2_ID" : "S0289X",
+  "hops" : 1,
+  "length" : 5.97,
+  "cost" : 85.97
+}, {
+  "id" : 535,
+  "name" : "Site 0230-Site 0153 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0230X",
+  "site2_ID" : "S0153X",
+  "hops" : 3,
+  "length" : 28.58,
+  "cost" : 108.58
+}, {
+  "id" : 536,
+  "name" : "Site 0251-Site 0273 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0251X",
+  "site2_ID" : "S0273X",
+  "hops" : 2,
+  "length" : 4.382,
+  "cost" : 84.382
+}, {
+  "id" : 537,
+  "name" : "Site 0273-Site 0237 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0273X",
+  "site2_ID" : "S0237X",
+  "hops" : 1,
+  "length" : 3.266,
+  "cost" : 83.266
+}, {
+  "id" : 538,
+  "name" : "Site 0330-Site 0308 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0330X",
+  "site2_ID" : "S0308X",
+  "hops" : 2,
+  "length" : 21.44,
+  "cost" : 101.44
+}, {
+  "id" : 539,
+  "name" : "Site 0250-Site 0251 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0250X",
+  "site2_ID" : "S0251X",
+  "hops" : 1,
+  "length" : 6.573,
+  "cost" : 86.573
+}, {
+  "id" : 540,
+  "name" : "Site 0250-Site 0256 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0250X",
+  "site2_ID" : "S0256X",
+  "hops" : 2,
+  "length" : 10.35,
+  "cost" : 90.35
+}, {
+  "id" : 543,
+  "name" : "Site 0109-Site 0077 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0109X",
+  "site2_ID" : "S0077X",
+  "hops" : 5,
+  "length" : 65.575,
+  "cost" : 218.499
+}, {
+  "id" : 546,
+  "name" : "Site 0281-Site 0130 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0281X",
+  "site2_ID" : "S0130X",
+  "hops" : 1,
+  "length" : 58.035,
+  "cost" : 138.035
+}, {
+  "id" : 549,
+  "name" : "Site 0056-Site 0073 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0056X",
+  "site2_ID" : "S0073X",
+  "hops" : 1,
+  "length" : 25.645,
+  "cost" : 105.645
+}, {
+  "id" : 550,
+  "name" : "Site 0001-Site 0003 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0001X",
+  "site2_ID" : "S0003X",
+  "hops" : 2,
+  "length" : 15.48,
+  "cost" : 95.48
+}, {
+  "id" : 553,
+  "name" : "Site 0342-Site 0355 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0342X",
+  "site2_ID" : "S0355X",
+  "hops" : 3,
+  "length" : 26.714,
+  "cost" : 106.714
+}, {
+  "id" : 555,
+  "name" : "Site 0355-Site 0350 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0355X",
+  "site2_ID" : "S0350X",
+  "hops" : 2,
+  "length" : 20.046,
+  "cost" : 100.046
+}, {
+  "id" : 556,
+  "name" : "Site 0130-Site 0131 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0130X",
+  "site2_ID" : "S0131X",
+  "hops" : 1,
+  "length" : 28.591,
+  "cost" : 108.591
+}, {
+  "id" : 557,
+  "name" : "Site 0147-Site 0162 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0147X",
+  "site2_ID" : "S0162X",
+  "hops" : 1,
+  "length" : 7.723,
+  "cost" : 87.723
+}, {
+  "id" : 560,
+  "name" : "Site 0307-Site 0256 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0307X",
+  "site2_ID" : "S0256X",
+  "hops" : 3,
+  "length" : 33.343,
+  "cost" : 168.961
+}, {
+  "id" : 561,
+  "name" : "Site 0307-Site 0291 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0307X",
+  "site2_ID" : "S0291X",
+  "hops" : 3,
+  "length" : 7.063,
+  "cost" : 87.063
+}, {
+  "id" : 564,
+  "name" : "Site 0365-Site 0367 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0365X",
+  "site2_ID" : "S0367X",
+  "hops" : 1,
+  "length" : 12.77,
+  "cost" : 92.77
+}, {
+  "id" : 571,
+  "name" : "Site 0264-Site 0158 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0264X",
+  "site2_ID" : "S0158X",
+  "hops" : 3,
+  "length" : 35.36,
+  "cost" : 115.36
+}, {
+  "id" : 572,
+  "name" : "Site 0094-Site 0073 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0094X",
+  "site2_ID" : "S0073X",
+  "hops" : 2,
+  "length" : 18.852,
+  "cost" : 98.852
+}, {
+  "id" : 574,
+  "name" : "Site 0148-Site 0162 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0148X",
+  "site2_ID" : "S0162X",
+  "hops" : 3,
+  "length" : 86.053,
+  "cost" : 287.655
+}, {
+  "id" : 581,
+  "name" : "Site 0109-Site 0120 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0109X",
+  "site2_ID" : "S0120X",
+  "hops" : 3,
+  "length" : 29.39,
+  "cost" : 109.39
+}, {
+  "id" : 584,
+  "name" : "Site 0162-Site 0198 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0162X",
+  "site2_ID" : "S0198X",
+  "hops" : 2,
+  "length" : 16.327,
+  "cost" : 96.327
+}, {
+  "id" : 586,
+  "name" : "Site 0325-Site 0300 OMS2",
+  "layer" : "UL",
+  "site1_ID" : "S0325X",
+  "site2_ID" : "S0300X",
+  "hops" : 4,
+  "length" : 21.339,
+  "cost" : 101.339
+}, {
+  "id" : 587,
+  "name" : "Site 0358-Site 0340 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0358X",
+  "site2_ID" : "S0340X",
+  "hops" : 1,
+  "length" : 61.941,
+  "cost" : 265.823
+}, {
+  "id" : 589,
+  "name" : "Site 0119-Site 0177 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0119X",
+  "site2_ID" : "S0177X",
+  "hops" : 1,
+  "length" : 55.902,
+  "cost" : 135.902
+}, {
+  "id" : 590,
+  "name" : "Site 0107-Site 0119 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0107X",
+  "site2_ID" : "S0119X",
+  "hops" : 4,
+  "length" : 62.171,
+  "cost" : 142.171
+}, {
+  "id" : 593,
+  "name" : "Site 0229-Site 0279 OMS1",
+  "layer" : "UL",
+  "site1_ID" : "S0229X",
+  "site2_ID" : "S0279X",
+  "hops" : 1,
+  "length" : 10.805,
+  "cost" : 112.415
+}, {
+  "id" : 594,
+  "name" : "Site 0022-Site 0006 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0022X",
+  "site2_ID" : "S0006X",
+  "hops" : 5,
+  "length" : 208.801,
+  "cost" : 313.801
+}, {
+  "id" : 595,
+  "name" : "Site 0050-Site 0082 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0050X",
+  "site2_ID" : "S0082X",
+  "hops" : 6,
+  "length" : 120.932,
+  "cost" : 215.932
+}, {
+  "id" : 596,
+  "name" : "Site 0022-Site 0082 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0022X",
+  "site2_ID" : "S0082X",
+  "hops" : 2,
+  "length" : 86.745,
+  "cost" : 161.745
+}, {
+  "id" : 597,
+  "name" : "Site 0066-Site 0006 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0066X",
+  "site2_ID" : "S0006X",
+  "hops" : 15,
+  "length" : 267.128,
+  "cost" : 387.128
+}, {
+  "id" : 598,
+  "name" : "Site 0122-Site 0006 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0122X",
+  "site2_ID" : "S0006X",
+  "hops" : 11,
+  "length" : 172.261,
+  "cost" : 317.401
+}, {
+  "id" : 599,
+  "name" : "Site 0066-Site 0122 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0066X",
+  "site2_ID" : "S0122X",
+  "hops" : 12,
+  "length" : 180.315,
+  "cost" : 250.315
+}, {
+  "id" : 600,
+  "name" : "Site 0006-Site 0050 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0006X",
+  "site2_ID" : "S0050X",
+  "hops" : 6,
+  "length" : 128.788,
+  "cost" : 223.788
+}, {
+  "id" : 601,
+  "name" : "Site 0282-Site 0122 OMS2",
+  "layer" : "OL",
+  "site1_ID" : "S0282X",
+  "site2_ID" : "S0122X",
+  "hops" : 7,
+  "length" : 141.565,
+  "cost" : 231.565
+}, {
+  "id" : 602,
+  "name" : "Site 0022-Site 0143 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0022X",
+  "site2_ID" : "S0143X",
+  "hops" : 12,
+  "length" : 206.594,
+  "cost" : 311.852
+}, {
+  "id" : 603,
+  "name" : "Site 0082-Site 0125 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0082X",
+  "site2_ID" : "S0125X",
+  "hops" : 5,
+  "length" : 70.67,
+  "cost" : 165.67
+}, {
+  "id" : 604,
+  "name" : "Site 0125-Site 0258 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0125X",
+  "site2_ID" : "S0258X",
+  "hops" : 8,
+  "length" : 132.285,
+  "cost" : 207.285
+}, {
+  "id" : 605,
+  "name" : "Site 0349-Site 0258 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0349X",
+  "site2_ID" : "S0258X",
+  "hops" : 11,
+  "length" : 145.777,
+  "cost" : 215.777
+}, {
+  "id" : 606,
+  "name" : "Site 0050-Site 0193 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0050X",
+  "site2_ID" : "S0193X",
+  "hops" : 8,
+  "length" : 124.904,
+  "cost" : 214.904
+}, {
+  "id" : 607,
+  "name" : "Site 0349-Site 0257 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0349X",
+  "site2_ID" : "S0257X",
+  "hops" : 4,
+  "length" : 117.348,
+  "cost" : 192.348
+}, {
+  "id" : 608,
+  "name" : "Site 0066-Site 0282 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0066X",
+  "site2_ID" : "S0282X",
+  "hops" : 10,
+  "length" : 192.162,
+  "cost" : 297.162
+}, {
+  "id" : 609,
+  "name" : "Site 0349-Site 0193 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0349X",
+  "site2_ID" : "S0193X",
+  "hops" : 17,
+  "length" : 374.438,
+  "cost" : 504.438
+}, {
+  "id" : 610,
+  "name" : "Site 0191-Site 0257 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0191X",
+  "site2_ID" : "S0257X",
+  "hops" : 6,
+  "length" : 77.931,
+  "cost" : 152.931
+}, {
+  "id" : 611,
+  "name" : "Site 0191-Site 0082 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0191X",
+  "site2_ID" : "S0082X",
+  "hops" : 4,
+  "length" : 109.736,
+  "cost" : 184.736
+}, {
+  "id" : 612,
+  "name" : "Site 0193-Site 0122 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0193X",
+  "site2_ID" : "S0122X",
+  "hops" : 6,
+  "length" : 77.916,
+  "cost" : 132.916
+}, {
+  "id" : 613,
+  "name" : "Site 0191-Site 0282 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0191X",
+  "site2_ID" : "S0282X",
+  "hops" : 11,
+  "length" : 136.365,
+  "cost" : 211.365
+}, {
+  "id" : 614,
+  "name" : "Site 0125-Site 0143 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0125X",
+  "site2_ID" : "S0143X",
+  "hops" : 7,
+  "length" : 130.242,
+  "cost" : 225.242
+}, {
+  "id" : 615,
+  "name" : "Site 0193-Site 0209 OMS2",
+  "layer" : "OL",
+  "site1_ID" : "S0193X",
+  "site2_ID" : "S0209X",
+  "hops" : 2,
+  "length" : 8.737,
+  "cost" : 48.737
+}, {
+  "id" : 616,
+  "name" : "Site 0082-Site 0209 OMS1",
+  "layer" : "OL",
+  "site1_ID" : "S0082X",
+  "site2_ID" : "S0209X",
+  "hops" : 4,
+  "length" : 102.433,
+  "cost" : 177.433
+}, {
+  "id" : 665,
+  "name" : "Site 0112-Site 0158 OMS1",
+  "layer" : "UB",
+  "site1_ID" : "S0112X",
+  "site2_ID" : "S0158X",
+  "hops" : 7,
+  "length" : 116.905,
+  "cost" : 211.905
+}, {
+  "id" : 675,
+  "name" : "Site 0139-Site 0084 OMS1",
+  "layer" : "UB",
+  "site1_ID" : "S0139X",
+  "site2_ID" : "S0084X",
+  "hops" : 5,
+  "length" : 91.539,
+  "cost" : 186.539
+}, {
+  "id" : 676,
+  "name" : "Site 0139-Site 0081 OMS1",
+  "layer" : "UB",
+  "site1_ID" : "S0139X",
+  "site2_ID" : "S0081X",
+  "hops" : 6,
+  "length" : 76.338,
+  "cost" : 156.338
+}, {
+  "id" : 700,
+  "name" : "Site 0055-Site 0182 OMS1",
+  "layer" : "UB",
+  "site1_ID" : "S0055X",
+  "site2_ID" : "S0182X",
+  "hops" : 10,
+  "length" : 168.585,
+  "cost" : 278.585
+}, {
+  "id" : 738,
+  "name" : "Site 0102-Site 0124 OMS1",
+  "layer" : "UB",
+  "site1_ID" : "S0102X",
+  "site2_ID" : "S0124X",
+  "hops" : 6,
+  "length" : 90.247,
+  "cost" : 185.247
+}, {
+  "id" : 740,
+  "name" : "Site 0064-Site 0123 OMS1",
+  "layer" : "UB",
+  "site1_ID" : "S0064X",
+  "site2_ID" : "S0123X",
+  "hops" : 3,
+  "length" : 80.294,
+  "cost" : 175.294
+}, {
+  "id" : 812,
+  "name" : "Site 0135-Site 0090 OMS1",
+  "layer" : "UB",
+  "site1_ID" : "S0135X",
+  "site2_ID" : "S0090X",
+  "hops" : 4,
+  "length" : 57.746,
+  "cost" : 137.746
+}, {
+  "id" : 821,
+  "name" : "Site 0094-Site 0084 OMS1",
+  "layer" : "UB",
+  "site1_ID" : "S0094X",
+  "site2_ID" : "S0084X",
+  "hops" : 4,
+  "length" : 77.744,
+  "cost" : 157.744
+}, {
+  "id" : 877,
+  "name" : "Site 0126-Site 0094 OMS2",
+  "layer" : "UB",
+  "site1_ID" : "S0126X",
+  "site2_ID" : "S0094X",
+  "hops" : 3,
+  "length" : 50.945,
+  "cost" : 130.945
+} ] ]
