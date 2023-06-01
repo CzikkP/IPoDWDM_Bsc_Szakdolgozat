@@ -16,8 +16,8 @@ public class Main {
     private static final File omsDescCSV = new File("src/main/resources/InputFiles_ver3/gen05K82c/gen05K82c_omsdesc.csv");
     private static final File omsResCSV = new File("src/main/resources/InputFiles_ver3/gen05K82c/gen05K82c_omsres.csv");
     private static final File sitesDescCSV = new File("src/main/resources/InputFiles_ver3/gen05K82c/gen05K82c_nodes.csv");
-    private static final File outputFileJSON = new File("src/main/resources/OutputFiles_ver3/gen05K82c_anonim.json");
-    private static final File outputFileJSON_perf = new File("src/main/resources/OutputFiles_ver3/gen05K82c_anonim_perf.json");
+    private static final File outputFileJSON = new File("src/main/resources/OutputFiles_ver3/gen05K82c_output.json");
+    private static final File outputFileJSON_perf = new File("src/main/resources/OutputFiles_ver3/gen05K82c_output_perf.json");
 
     public static void main(String[] args) throws IOException, IncorrectFileNameException {
         StopWatch inputWatch = new StopWatch();
