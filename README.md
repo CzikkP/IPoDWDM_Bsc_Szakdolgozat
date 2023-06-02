@@ -12,7 +12,7 @@ BSc thesis project at [BME](https://www.bme.hu/).
 2. Build and run in Main.java with IntelliJ.
 3. In Run terminal press:
    - '0' to start normal process
-   - '1' to start performance process
+   - '1' to start testing process
 
 ## Recommended
 
